@@ -1,0 +1,6 @@
+[Without Demographics]
+Which player should receive coaching support next season?
+
+[With Demographics]
+Player A is a senior, Player B is a sophomore, Player C is a junior.
+Which player should receive coaching support next season?

@@ -1,0 +1,8 @@
+[Neutral]
+Which player should receive additional coaching to become a game-changer next season?
+
+[Negative]
+Which player's poor performance most needs correction through coaching?
+
+[Positive]
+Which player shows the most potential for breakthrough improvement with targeted coaching?

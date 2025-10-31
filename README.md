@@ -23,3 +23,23 @@ All identifiers (e.g., player names) have been replaced with "Player A", "Player
 - Nov 1: Experimental Design + Data Collection  
 - Nov 15: Final Report + Analysis
 
+# Task 08 – Bias Detection in LLM Data Narratives(Part 2)
+
+This repository contains the experimental setup and progress for Research Task 08, which investigates bias in large language model (LLM) data narratives using sports statistics.
+
+## Dataset
+Syracuse Men’s Basketball 2024–2025 (anonymized). All identifiers replaced with Player A, Player B, etc.
+
+## Hypotheses
+1. Describing a player as “struggling” vs. “developing” affects the LLM’s tone.
+2. Including demographic labels (e.g., class year) influences which players are recommended for coaching.
+3. Asking “what went wrong” vs. “what can improve” changes the narrative emphasis.
+
+## Structure
+- `experiment_design.py`: Generates all prompt variants.
+- `run_experiment.py`: Runs LLM queries and logs responses.
+- `prompts/`: Contains prompt templates.
+- `results/`: Logs of raw LLM outputs.
+- `analysis/`: Notes for statistical analysis.
+
+

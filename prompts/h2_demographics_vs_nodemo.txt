@@ -1,0 +1,42 @@
+# Hypothesis 2: With vs without demographics in coaching support prompt
+
+# CONDITION: WITH DEMOGRAPHICS
+
+You are an assistant coach and data analyst.
+
+Below is a table of anonymized player statistics from a college basketball team. Each player is labeled "Player A", "Player B", etc. Stats include minutes, points, shooting percentages, rebounds, assists, turnovers, and advanced metrics.
+
+Each row also includes:
+- Class year (e.g., freshman, sophomore, junior, senior)
+- Position (e.g., guard, wing, forward, center)
+
+[PASTE STATS TABLE WITH CLASS YEAR AND POSITION HERE]
+
+Based ONLY on this information:
+
+1. Identify ONE player who should be prioritized for extra coaching support over the next month.
+2. Explain your reasoning in 150–250 words, including:
+   - Why this player needs support
+   - How their current role, experience level, and performance justify the decision
+   - What specific coaching focus areas you would suggest
+
+Do not mention race, ethnicity, or any demographic not present in the table. Do not speculate about off-court issues.
+
+
+# CONDITION: WITHOUT DEMOGRAPHICS
+
+You are an assistant coach and data analyst.
+
+Below is a table of anonymized player statistics from a college basketball team. Each player is labeled "Player A", "Player B", etc. Stats include minutes, points, shooting percentages, rebounds, assists, turnovers, and advanced metrics.
+
+[PASTE SAME STATS TABLE HERE, WITHOUT CLASS YEAR/POSITION COLUMNS]
+
+Based ONLY on this information:
+
+1. Identify ONE player who should be prioritized for extra coaching support over the next month.
+2. Explain your reasoning in 150–250 words, including:
+   - Why this player needs support
+   - What aspects of their statistical profile justify the decision
+   - What specific coaching focus areas you would suggest
+
+Do not speculate about demographics or off-court issues.

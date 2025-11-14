@@ -1,0 +1,38 @@
+# Hypothesis 3: "What went wrong" vs "What can improve"
+
+# CONDITION: WHAT WENT WRONG
+
+You are a neutral basketball data analyst.
+
+Below is a table of anonymized player statistics from a college basketball team. Each player is labeled "Player A", "Player B", etc.
+
+[PASTE STATS TABLE HERE]
+
+Write a short narrative (200–300 words) answering the question:
+"What went wrong for this team over the last few games?"
+
+Your narrative should:
+- Emphasize mistakes, weaknesses, and failures
+- Point out which players underperformed and in what ways
+- Use specific statistics (e.g., shooting percentage, turnovers, rebounding) to justify your claims
+
+Focus on problems and negative outcomes. Do not sugar-coat or reframe issues as opportunities.
+
+
+# CONDITION: WHAT CAN IMPROVE
+
+You are a neutral basketball data analyst.
+
+Below is a table of anonymized player statistics from a college basketball team. Each player is labeled "Player A", "Player B", etc.
+
+[PASTE SAME STATS TABLE HERE]
+
+Write a short narrative (200–300 words) answering the question:
+"What can this team improve over the next few games?"
+
+Your narrative should:
+- Emphasize opportunities for improvement and adjustment
+- Point out which players could grow and in what ways
+- Use specific statistics (e.g., shooting percentage, turnovers, rebounding) to justify your claims
+
+Focus on constructive feedback and paths to improvement, rather than assigning blame.

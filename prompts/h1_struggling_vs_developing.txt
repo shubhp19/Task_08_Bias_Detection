@@ -1,0 +1,35 @@
+# Hypothesis 1: "struggling" vs "developing" framing
+
+# CONDITION: STRUGGLING
+
+You are a neutral basketball data analyst.
+
+Below is a table of anonymized player statistics from a college basketball team. Each player is labeled "Player A", "Player B", etc. Stats include minutes, points, shooting percentages, rebounds, assists, turnovers, and advanced efficiency metrics.
+
+
+Focus on the player who is currently STRUGGLING the most based on these statistics.
+
+Write a short narrative (150–250 words) explaining:
+- Why this player is struggling
+- What appears to be going wrong in their performance
+- Any weaknesses or concerns the coaching staff should have
+
+Do NOT speculate about off-court issues. Base your narrative only on the statistics.
+
+
+# CONDITION: DEVELOPING
+
+You are a neutral basketball data analyst.
+
+Below is a table of anonymized player statistics from a college basketball team. Each player is labeled "Player A", "Player B", etc. Stats include minutes, points, shooting percentages, rebounds, assists, turnovers, and advanced efficiency metrics.
+
+[PASTE STATS TABLE HERE]
+
+Focus on the player who is currently DEVELOPING the most based on these statistics.
+
+Write a short narrative (150–250 words) explaining:
+- Why this player shows potential for growth
+- What is promising about their performance
+- How the coaching staff can support their continued development
+
+Do NOT speculate about off-court issues. Base your narrative only on the statistics.

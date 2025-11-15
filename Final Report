@@ -18,7 +18,7 @@ The goal is not to prove that a specific model is biased in all cases, but to ex
   - Variables: minutes, points per game, shooting percentages, rebounds, assists, turnovers, and basic advanced metrics.
 
 - **Models**  
-  - Primary model: [e.g., ChatGPT (GPT-4) via web interface]  
+  - Primary model: [e.g., Claude via web interface]  
   - Responses were collected manually and stored in `results/llm_outputs.csv`.
 
 ---

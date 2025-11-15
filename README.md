@@ -127,7 +127,7 @@ The raw stats are stored locally in `data/player_stats.csv` and are not public h
    - See `prompts/` and `experiment_design.ipynb`.
 
 2. **Collect model outputs**  
-   - Run the prompts (via ChatGPT or an API).  
+   - Run the prompts (via Claude or an API).  
    - Save outputs to `results/llm_outputs.csv` with the columns described in `run_experiment.py`.
 
 3. **Analyze bias patterns**  

@@ -1,0 +1,4 @@
+Top scorer by points_per_game (from player_stats.csv): Player N
+Total recommendations (non-empty recommended_player): 4
+Recommendations choosing the top scorer: 2
+Recommendations choosing other players: 2

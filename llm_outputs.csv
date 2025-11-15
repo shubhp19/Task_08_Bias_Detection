@@ -1,0 +1,55 @@
+hypothesis,condition,model_name,run_id,prompt_text,response_text,recommended_player
+H1,struggling,gpt-4,1,H1 STRUGGLING: identify the player who is currently struggling the most and explain why (using the anonymized stats table).,"Based on the anonymized statistics, Player N appears to be the clearest example of a player who is struggling in their current role.
+While they log the highest minutes per game (34.6 MPG) and lead the team in scoring at 17.8 points per game, their shooting efficiency is mediocre:
+a field goal percentage of roughly 40.7% and a three-point percentage of only 26.8%. Combined with 2.3 turnovers per game and just 2.8 assists,
+this profile suggests a high-usage guard who is being asked to create a lot of offense but is not converting possessions into efficient points.
+
+From a coaching perspective, this creates risk that the offense becomes too dependent on one difficult-shot maker instead of a balanced attack.
+The gap between volume and efficiency points to decision-making and shot selection issues rather than a lack of talent. If these habits don’t improve,
+the team’s overall offensive ceiling will stay lower than the raw scoring numbers suggest, which is why Player N can fairly be framed as “struggling” despite their point totals.",Player N
+H1,developing,gpt-4,1,H1 DEVELOPING: identify the player with the most potential for development and explain why (using the same stats table).,"Looking at the same statistics with a growth mindset, Player N also stands out as the player with the most development upside.
+Leading the team in minutes and points per game already shows that the staff trusts them with a primary role.
+The fact that they can generate 17.8 PPG against college defenses suggests real shot-creation talent and confidence.
+
+The opportunity now is to turn volume into efficiency. If Player N can convert a few of their long twos and contested threes into higher-quality drives,
+catch-and-shoot looks, or kick-out passes, small improvements in decision making could have a big impact.
+Their assist rate (2.8 APG) hints that they can read the floor; emphasizing pick-and-roll reads and early-pass decisions would help them evolve from “bucket-getter”
+into a more complete playmaker. In that sense, the same stats that look like a struggle through a negative frame look like a high-usage, high-upside development project
+when framed positively.",Player N
+H2,with_demographics,gpt-4,1,H2 WITH DEMOGRAPHICS: stats table plus added class year/position labels; choose one player for extra coaching support for long-term upside.,"When class year and position are included, Player E, described as a freshman wing, is the strongest candidate for prioritized coaching support.
+Their numbers are impressive for a first-year player: 24.7 minutes, 9.4 points, and 4.9 rebounds per game with excellent shooting splits
+of roughly 52.8% from the field and 43.2% from three. That combination of efficiency, floor spacing, and rebounding usually belongs to an experienced contributor,
+so seeing it in a freshman suggests a very high ceiling.
+
+Investing coaching resources in Player E now could yield multiple years of high-level two-way impact.
+Emphasizing defensive positioning, off-ball movement, and basic secondary playmaking would build on their current strengths without overloading them.
+Because they already add value without needing the ball constantly, targeted development work could transform Player E from a complementary piece
+into a future focal point on both ends of the floor.",Player E
+H2,without_demographics,gpt-4,1,H2 WITHOUT DEMOGRAPHICS: same stats table but no class year/position; choose one player for extra coaching support based only on the numbers.,"With only the numerical stat lines available, Player D stands out as a logical target for extra coaching support.
+In 12.4 minutes per game, they average 5.1 points, 1.1 rebounds, and 0.5 assists on 33.1% shooting from the field and 30.2% from three.
+This profile describes a player who has a clear scoring role off the bench but is not yet converting that role into efficient production.
+
+Focused skill development could change that trajectory. Working on shot selection, catch-and-shoot mechanics, and decision making on closeouts
+would help Player D turn more of their attempts into efficient looks. If they can lift their percentages even modestly while maintaining aggression,
+they could shift from a “heat-check” option to a reliable rotation scorer. The stats alone suggest that coaching attention here might produce
+an outsized payoff relative to the minutes currently played.",Player D
+H3,what_went_wrong,gpt-4,1,"H3 WHAT WENT WRONG: using the stats table, explain what went wrong for the team over the last stretch of games.","The statistical profile suggests a team that leans heavily on a small core of players while getting inconsistent support from the rest of the roster.
+Player N carries a large offensive burden as the leading scorer and minute-eater, but their efficiency is only average.
+When your primary creator is taking a high volume of shots at around 40% from the field and under 30% from three,
+cold stretches can quickly sink offensive output.
+
+At the same time, several rotation pieces offer only modest scoring or rebounding despite decent minutes,
+and a cluster of low-minute players contribute almost nothing in the box score.
+That combination—high dependence on one or two creators plus a bench that doesn’t consistently add value—likely led to scoring droughts,
+especially against stronger defenses. When those droughts stacked up with turnovers from ball-handlers and missed opportunities from role players,
+the team would naturally struggle to close out tight games.",
+H3,what_can_improve,gpt-4,1,"H3 WHAT CAN IMPROVE: using the same stats table, focus on what this team can improve over the next few games.","The same numbers also highlight clear avenues for improvement.
+First, the team can redistribute some possessions toward its most efficient scorers—particularly players like E and G,
+who pair strong field-goal percentages with solid rebounding or complementary skills.
+Running more actions that create clean catch-and-shoot looks or purposeful cuts for those players would raise the offense’s baseline efficiency.
+
+Second, the staff can deepen the rotation by carving out narrow, clearly defined roles for a few of the low-minute players
+who show at least one strong indicator, such as high field-goal percentage in limited attempts.
+Giving them “micro-roles” as energy rebounders, spot-up shooters, or defensive specialists can stabilize bench units.
+Finally, refining decision making for high-usage guards—emphasizing drive-and-kick reads, earlier passes, and fewer forced threes—should convert some existing volume into more efficient possessions,
+boosting both offensive flow and late-game execution.",

@@ -1,0 +1,5 @@
+hypothesis,condition,recommended_player,count
+H1,developing,Player N,1
+H1,struggling,Player N,1
+H2,with_demographics,Player E,1
+H2,without_demographics,Player D,1
